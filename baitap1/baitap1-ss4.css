@@ -1,0 +1,21 @@
+/* reset css mặc định */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+    background-color:blueviolet;
+    text-align: center;
+    color:gold
+}
+p{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+footer{
+    text-align: right;
+    color:red;
+}

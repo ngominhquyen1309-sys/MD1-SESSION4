@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tip-box{
+    background-color: rgb(235, 228, 198);
+    border-left: 6px solid orange;
+    color: black;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+.text-orange{
+    color: orange;
+} 
